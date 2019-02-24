@@ -78,6 +78,7 @@ module.exports = {
       files: '*.{md,markdown}',
       options: {
         parser: 'markdown',
+        singleQuote: false,
       },
     },
     {
@@ -97,6 +98,12 @@ module.exports = {
       files: '*.{graphql,gql}',
       options: {
         parser: 'graphql',
+      },
+    },
+    {
+      files: 'README.md',
+      options: {
+        singleQuote: true,
       },
     },
   ],

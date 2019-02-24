@@ -78,7 +78,6 @@ module.exports = {
       files: '*.{md,markdown}',
       options: {
         parser: 'markdown',
-        singleQuote: false,
       },
     },
     {

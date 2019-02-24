@@ -22,7 +22,7 @@ npm install --save-dev eslint prettier @xwtec/eslint-config
 ```js
 module.exports = {
   root: true,
-  extends: ["@xwtec"],
+  extends: ['@xwtec'],
 }
 ```
 
@@ -31,7 +31,7 @@ module.exports = {
 ```js
 module.exports = {
   root: true,
-  extends: ["@xwtec/eslint-config/legacy"],
+  extends: ['@xwtec/eslint-config/legacy'],
 }
 ```
 
@@ -40,7 +40,7 @@ module.exports = {
 ```js
 module.exports = {
   root: true,
-  extends: ["@xwtec/eslint-config/vue"],
+  extends: ['@xwtec/eslint-config/vue'],
 }
 ```
 

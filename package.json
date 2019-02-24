@@ -18,7 +18,8 @@
     "prettier": "prettier **/*.{js,json,md} --write",
     "lint": "npm-run-all --parallel lint:*",
     "lint:js": "eslint **/*.js",
-    "lint:markdown": "markdownlint *.md"
+    "lint:markdown": "markdownlint *.md",
+    "prettier": "prettier **/*.{js,md,json} --write"
   },
   "license": "MIT",
   "dependencies": {

@@ -269,7 +269,7 @@
 | [no-undef](https://eslint.org/docs/rules/no-undef)                                                                                                             | error  |     error     |
 | [no-undef-init](https://eslint.org/docs/rules/no-undef-init)                                                                                                   | error  |     error     |
 | [no-undefined](https://eslint.org/docs/rules/no-undefined)                                                                                                     |  off   |      off      |
-| [no-underscore-dangle](https://eslint.org/docs/rules/no-underscore-dangle)                                                                                     | error  |     error     |
+| [no-underscore-dangle](https://eslint.org/docs/rules/no-underscore-dangle)                                                                                     |  off   |      off      |
 | [no-unexpected-multiline](https://eslint.org/docs/rules/no-unexpected-multiline)                                                                               |  off   |      off      |
 | [no-unmodified-loop-condition](https://eslint.org/docs/rules/no-unmodified-loop-condition)                                                                     | error  |     error     |
 | [no-unneeded-ternary](https://eslint.org/docs/rules/no-unneeded-ternary)                                                                                       | error  |     error     |

@@ -29,6 +29,7 @@
 | [no-new](https://eslint.org/docs/rules/no-new)                                             |     warn      |             error             |
 | [no-param-reassign](https://eslint.org/docs/rules/no-param-reassign)                       |      off      |             error             |
 | [no-shadow](https://eslint.org/docs/rules/no-shadow)                                       |      off      |             error             |
+| [no-underscore-dangle](https://eslint.org/docs/rules/no-underscore-dangle)                 |      off      |             error             |
 | [no-unmodified-loop-condition](https://eslint.org/docs/rules/no-unmodified-loop-condition) |     error     |              off              |
 | [no-unused-vars](https://eslint.org/docs/rules/no-unused-vars)                             |     warn      |             error             |
 | [no-useless-call](https://eslint.org/docs/rules/no-useless-call)                           |     error     |              off              |
@@ -222,7 +223,7 @@
 | [no-undef](https://eslint.org/docs/rules/no-undef)                                                 |     error     |             error             |
 | [no-undef-init](https://eslint.org/docs/rules/no-undef-init)                                       |     error     |             error             |
 | [no-undefined](https://eslint.org/docs/rules/no-undefined)                                         |      off      |              off              |
-| [no-underscore-dangle](https://eslint.org/docs/rules/no-underscore-dangle)                         |     error     |             error             |
+| [no-underscore-dangle](https://eslint.org/docs/rules/no-underscore-dangle)                         |      off      |             error             |
 | [no-unexpected-multiline](https://eslint.org/docs/rules/no-unexpected-multiline)                   |      off      |              off              |
 | [no-unmodified-loop-condition](https://eslint.org/docs/rules/no-unmodified-loop-condition)         |     error     |              off              |
 | [no-unneeded-ternary](https://eslint.org/docs/rules/no-unneeded-ternary)                           |     error     |             error             |

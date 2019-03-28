@@ -67,6 +67,7 @@
 | [no-spaced-func](https://eslint.org/docs/rules/no-spaced-func)                                     |      off      |       error        |
 | [no-tabs](https://eslint.org/docs/rules/no-tabs)                                                   |      off      |       error        |
 | [no-trailing-spaces](https://eslint.org/docs/rules/no-trailing-spaces)                             |      off      |       error        |
+| [no-underscore-dangle](https://eslint.org/docs/rules/no-underscore-dangle)                         |      off      |       error        |
 | [no-unexpected-multiline](https://eslint.org/docs/rules/no-unexpected-multiline)                   |      off      |       error        |
 | [no-unmodified-loop-condition](https://eslint.org/docs/rules/no-unmodified-loop-condition)         |     error     |        off         |
 | [no-unused-vars](https://eslint.org/docs/rules/no-unused-vars)                                     |     warn      |       error        |
@@ -295,7 +296,7 @@
 | [no-undef](https://eslint.org/docs/rules/no-undef)                                                 |     error     |       error        |
 | [no-undef-init](https://eslint.org/docs/rules/no-undef-init)                                       |     error     |       error        |
 | [no-undefined](https://eslint.org/docs/rules/no-undefined)                                         |      off      |        off         |
-| [no-underscore-dangle](https://eslint.org/docs/rules/no-underscore-dangle)                         |     error     |       error        |
+| [no-underscore-dangle](https://eslint.org/docs/rules/no-underscore-dangle)                         |      off      |       error        |
 | [no-unexpected-multiline](https://eslint.org/docs/rules/no-unexpected-multiline)                   |      off      |       error        |
 | [no-unmodified-loop-condition](https://eslint.org/docs/rules/no-unmodified-loop-condition)         |     error     |        off         |
 | [no-unneeded-ternary](https://eslint.org/docs/rules/no-unneeded-ternary)                           |     error     |       error        |

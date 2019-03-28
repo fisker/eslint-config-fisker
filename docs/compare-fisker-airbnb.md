@@ -14,7 +14,6 @@
 | [arrow-spacing](https://eslint.org/docs/rules/arrow-spacing)                                       |  off   |    error    |
 | [block-spacing](https://eslint.org/docs/rules/block-spacing)                                       |  off   |    error    |
 | [brace-style](https://eslint.org/docs/rules/brace-style)                                           |  off   |    error    |
-| [callback-return](https://eslint.org/docs/rules/callback-return)                                   | error  |     off     |
 | [comma-dangle](https://eslint.org/docs/rules/comma-dangle)                                         |  off   |    error    |
 | [comma-spacing](https://eslint.org/docs/rules/comma-spacing)                                       |  off   |    error    |
 | [comma-style](https://eslint.org/docs/rules/comma-style)                                           |  off   |    error    |
@@ -123,7 +122,7 @@
 | [block-scoped-var](https://eslint.org/docs/rules/block-scoped-var)                                 | error  |    error    |
 | [block-spacing](https://eslint.org/docs/rules/block-spacing)                                       |  off   |    error    |
 | [brace-style](https://eslint.org/docs/rules/brace-style)                                           |  off   |    error    |
-| [callback-return](https://eslint.org/docs/rules/callback-return)                                   | error  |     off     |
+| [callback-return](https://eslint.org/docs/rules/callback-return)                                   |  off   |     off     |
 | [camelcase](https://eslint.org/docs/rules/camelcase)                                               | error  |    error    |
 | [capitalized-comments](https://eslint.org/docs/rules/capitalized-comments)                         |  off   |     off     |
 | [class-methods-use-this](https://eslint.org/docs/rules/class-methods-use-this)                     | error  |    error    |

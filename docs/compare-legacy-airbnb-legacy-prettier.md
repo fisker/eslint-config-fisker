@@ -8,7 +8,6 @@
 
 | Rule                                                                                       | fisker/legacy | airbnb-base/legacy + prettier |
 | :----------------------------------------------------------------------------------------- | :-----------: | :---------------------------: |
-| [callback-return](https://eslint.org/docs/rules/callback-return)                           |     error     |              off              |
 | [consistent-return](https://eslint.org/docs/rules/consistent-return)                       |     warn      |             error             |
 | [curly](https://eslint.org/docs/rules/curly)                                               |     error     |              off              |
 | [func-names](https://eslint.org/docs/rules/func-names)                                     |      off      |             warn              |
@@ -52,7 +51,7 @@
 | [block-scoped-var](https://eslint.org/docs/rules/block-scoped-var)                                 |     error     |             error             |
 | [block-spacing](https://eslint.org/docs/rules/block-spacing)                                       |      off      |              off              |
 | [brace-style](https://eslint.org/docs/rules/brace-style)                                           |      off      |              off              |
-| [callback-return](https://eslint.org/docs/rules/callback-return)                                   |     error     |              off              |
+| [callback-return](https://eslint.org/docs/rules/callback-return)                                   |      off      |              off              |
 | [camelcase](https://eslint.org/docs/rules/camelcase)                                               |     error     |             error             |
 | [capitalized-comments](https://eslint.org/docs/rules/capitalized-comments)                         |      off      |              off              |
 | [class-methods-use-this](https://eslint.org/docs/rules/class-methods-use-this)                     |     error     |             error             |

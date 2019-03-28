@@ -45,6 +45,7 @@
 | [no-catch-shadow](https://eslint.org/docs/rules/no-catch-shadow)                                   |     error     |        off         |
 | no-comma-dangle                                                                                    |      off      |
 | [no-confusing-arrow](https://eslint.org/docs/rules/no-confusing-arrow)                             |      off      |
+| [no-console](https://eslint.org/docs/rules/no-console)                                             |      off      |        warn        |
 | [no-continue](https://eslint.org/docs/rules/no-continue)                                           |      off      |       error        |
 | [no-eq-null](https://eslint.org/docs/rules/no-eq-null)                                             |     error     |        off         |
 | [no-extra-semi](https://eslint.org/docs/rules/no-extra-semi)                                       |      off      |       error        |
@@ -197,7 +198,7 @@
 | [no-compare-neg-zero](https://eslint.org/docs/rules/no-compare-neg-zero)                           |     error     |       error        |
 | [no-cond-assign](https://eslint.org/docs/rules/no-cond-assign)                                     |     error     |       error        |
 | [no-confusing-arrow](https://eslint.org/docs/rules/no-confusing-arrow)                             |      off      |
-| [no-console](https://eslint.org/docs/rules/no-console)                                             |     warn      |        warn        |
+| [no-console](https://eslint.org/docs/rules/no-console)                                             |      off      |        warn        |
 | [no-constant-condition](https://eslint.org/docs/rules/no-constant-condition)                       |     warn      |        warn        |
 | [no-continue](https://eslint.org/docs/rules/no-continue)                                           |      off      |       error        |
 | [no-control-regex](https://eslint.org/docs/rules/no-control-regex)                                 |     error     |       error        |

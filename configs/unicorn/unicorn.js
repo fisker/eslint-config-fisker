@@ -21,9 +21,13 @@ module.exports = {
     // bug desc https://github.com/sindresorhus/eslint-plugin-unicorn/issues/254
     'unicorn/prefer-spread': 'off',
 
-    // TODO: enable this rule after bug fixed
-    // bug desc https://github.com/sindresorhus/eslint-plugin-unicorn/issues/266
-    'unicorn/prevent-abbreviations': 'off',
+    // https://github.com/sindresorhus/eslint-plugin-unicorn/blob/master/docs/rules/prevent-abbreviations.md
+    'unicorn/prevent-abbreviations': [
+      'error',
+      {
+        checkProperties: false,
+      },
+    ],
 
     // https://github.com/sindresorhus/eslint-plugin-unicorn/blob/master/docs/rules/regex-shorthand.md
     // sometimes readable

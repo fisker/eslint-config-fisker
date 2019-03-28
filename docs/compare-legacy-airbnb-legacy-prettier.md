@@ -18,6 +18,7 @@
 | [max-statements-per-line](https://eslint.org/docs/rules/max-statements-per-line)           |     error     |              off              |
 | [no-async-promise-executor](https://eslint.org/docs/rules/no-async-promise-executor)       |     error     |              off              |
 | [no-catch-shadow](https://eslint.org/docs/rules/no-catch-shadow)                           |     error     |              off              |
+| [no-console](https://eslint.org/docs/rules/no-console)                                     |      off      |             warn              |
 | [no-continue](https://eslint.org/docs/rules/no-continue)                                   |      off      |             error             |
 | [no-eq-null](https://eslint.org/docs/rules/no-eq-null)                                     |     error     |              off              |
 | [no-implicit-coercion](https://eslint.org/docs/rules/no-implicit-coercion)                 |     error     |              off              |
@@ -124,7 +125,7 @@
 | [no-compare-neg-zero](https://eslint.org/docs/rules/no-compare-neg-zero)                           |     error     |             error             |
 | [no-cond-assign](https://eslint.org/docs/rules/no-cond-assign)                                     |     error     |             error             |
 | [no-confusing-arrow](https://eslint.org/docs/rules/no-confusing-arrow)                             |      off      |              off              |
-| [no-console](https://eslint.org/docs/rules/no-console)                                             |     warn      |             warn              |
+| [no-console](https://eslint.org/docs/rules/no-console)                                             |      off      |             warn              |
 | [no-constant-condition](https://eslint.org/docs/rules/no-constant-condition)                       |     warn      |             warn              |
 | [no-continue](https://eslint.org/docs/rules/no-continue)                                           |      off      |             error             |
 | [no-control-regex](https://eslint.org/docs/rules/no-control-regex)                                 |     error     |             error             |

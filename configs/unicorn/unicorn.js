@@ -25,6 +25,7 @@ module.exports = {
     'unicorn/prevent-abbreviations': [
       'error',
       {
+        checkDefaultAndNamespaceImports: true,
         checkProperties: false,
       },
     ],

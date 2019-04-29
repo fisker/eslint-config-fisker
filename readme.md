@@ -1,3 +1,5 @@
+# moved to `@fisker/eslint-config` instead [https://github.com/fisker/shared-configs/tree/master/packages/eslint-config](https://github.com/fisker/shared-configs/tree/master/packages/eslint-config)
+
 # eslint-config-fisker
 
 [![devDependencies](https://img.shields.io/david/dev/fisker/eslint-config-fisker.svg?style=flat-square)](https://david-dm.org/fisker/eslint-config-fisker)
